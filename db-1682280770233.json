@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "Fullname": "Michael Joseph",
+      "Phone": "090353535",
+      "Email": "michael@gmail.com",
+      "Salary": "1500000"
+    },
+    {
+      "id": 2,
+      "Fullname": "Isaac Isaiah",
+      "Phone": "090352222",
+      "Email": "isaac@gmail.com",
+      "Salary": "1500000"
+    },
+    {
+      "id": 3,
+      "Fullname": "Jamiu Joseph",
+      "Phone": "090353555",
+      "Email": "jamiu@gmail.com",
+      "Salary": "1500000"
+    },
+    {
+      "id": 4,
+      "Fullname": "Michael Stella",
+      "Phone": "090353335",
+      "Email": "stella@gmail.com",
+      "Salary": "1500000"
+    },
+    {
+      "id": 5,
+      "Fullname": "Michael Lukman",
+      "Phone": "090311000",
+      "Email": "luku@gmail.com",
+      "Salary": "1500000"
+    }
+  ]
+}
